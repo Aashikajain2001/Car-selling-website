@@ -1,1 +1,3 @@
 # Car-selling-website
+
+A website promoting a car window wrapping business. The site is divided into the following sections: about us, offer, gallery, reviews, blogs, and contact. The first section contains information about the company's history. The following section describes various types of window tinting. Then we'll come across a gallery of recent work. Previous customers' feedback is available in the following section. The final one contains a contact form, company information, and a precise location. Every second section is made into a banner, with the first containing the company's statistics and the second containing the individual pricing and appointment steps.
